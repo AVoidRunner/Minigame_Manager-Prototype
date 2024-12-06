@@ -1,0 +1,9 @@
+main: me.voidrunnerv.minigamemanagerprototype.Main
+name: MinigameManagerPrototype
+version: 0.01
+author: VoidRunnerV
+api-version: 1.16
+
+commands:
+   Addtoevent:
+   Leaveevent:
